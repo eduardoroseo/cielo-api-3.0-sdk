@@ -2,6 +2,7 @@
 
 Esse é um forke do antigo repositório de origem da própria Cielo, contudo a Cielo excluiu o repositório e ficamos sem conseguir
 gerar instalações via composer. Esse repositório **NÃO RECEBERÁ** atualizações e é uma solução **NÃO OFICIAL**.
+Antigo link da Cielo: https://github.com/DeveloperCielo/API-3.0-PHP
 
 # API-3.0-PHP
 
