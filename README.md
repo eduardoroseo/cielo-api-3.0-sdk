@@ -35,7 +35,7 @@ Se já possui um arquivo `composer.json`, basta adicionar a seguinte dependênci
 
 ```json
 "require": {
-    "developercielo/api-3.0-php": "^1.0"
+    "roseo/cielo-api-3.0-php": "dev-main"
 }
 ```
 
@@ -48,7 +48,7 @@ composer install
 Alternativamente, você pode executar diretamente em seu terminal:
 
 ```
-composer require "developercielo/api-3.0-php"
+composer require "roseo/cielo-api-3.0-php"
 ```
 
 ## Produtos e Bandeiras suportadas e suas constantes
